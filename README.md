@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/les-jours-heureux/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Les Jours Heureux](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/les-jours-heureux/) |
+| **Get License** | [Get a Licensing Quote for Les Jours Heureux](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/les-jours-heureux/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> J'te vois dans la brume, t'as ce regard de feu, yeah
+> La nuit est à nous, welcome to les jours heureux
+> Viens dans ma caisse, on file sous les néons, my baby
+> Ton parfum sur ma peau, tu me rends fou, c'est crazy
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
