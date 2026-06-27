@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/les-jours-heureux/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Les Jours Heureux](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/les-jours-heureux/) |
+| **Get License** | [Obtain a Music License for Les Jours Heureux](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/les-jours-heureux/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `08614f8cb954d432e7bd0f652ae63dd420c68c81b878f7376ec784a15f851055` |
 | **Timestamp** | June 27, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
